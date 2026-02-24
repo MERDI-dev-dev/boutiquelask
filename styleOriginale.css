@@ -1,0 +1,152 @@
+body{
+	background-image : url(../photo/imgE.jpg);
+
+
+}
+header{
+	background-color: black;
+	color: white;
+	text-align: center;
+
+}
+img{
+	width: 300px;
+	border: 1px solid black;
+	border-radius: 15px;
+
+}
+.produit{
+	border: 1px solid black;
+	width: 300px;
+	border-radius: 15px;
+	display: inline-block;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	gap: 15px;
+
+}
+.btnc{
+	background-color: blue;
+	border: 1px;
+	border-radius: 10px;
+}
+.menu{
+	text-align:right ;
+	margin: 30px;
+}
+a{
+	margin: 20px;
+	text-decoration: none;
+	background-color: red;
+	text-align: center;
+}
+footer{
+	background-color: green;
+	color: white;
+	padding-top: 60px;
+}
+.footer h3 .footer h4{
+color: white;
+margin-bottom: 25px;
+font-size: 1.3ren;
+}
+.grid{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+	margin-bottom: 40px;
+}
+.footer p{
+	margin-bottom: 20px;
+	color: white;
+}
+.info li{
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+.lien il{
+	text-align: center;
+	display: flex;
+	align-items: center;
+	list-style: none;
+
+
+}
+ul{
+	list-style: none;
+}
+.beatrice{
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+.conteneur-principal{
+	display: flex;
+	padding: 200px;
+}
+.floriber{
+	width: 300px;
+	background-color: goldenrod;
+	padding: 15px;
+	border: 1px solid black;
+	margin-left: 50px;
+	color: white;
+	border-radius: 20px;
+}
+.boutique{
+	width: 500px;
+	background-color: goldenrod;
+	padding: 15px;
+	border: 1px solid black;
+	color: white;
+	border-radius: 20px;
+}
+.apropos{
+	display: flex;
+	margin-left: 20px;
+	margin-bottom: 200px;
+}
+
+.boutique p{
+color: white;
+font-size: 1.9rem;
+
+}
+
+.boutique h2{
+	font-size: 2.5rem;
+
+}
+
+.floriber p {
+	color: white;
+	font-size: 1.9rem;
+}
+
+.floriber h2{
+	font-size: 2.5rem;
+	color:white;
+}
+
+.contact{
+	margin-bottom: 500px;
+}
+
+.service{
+	margin-left: 100px;
+	color: black;
+}
+.contact-f{
+	text-align: center;
+
+}
+
+.floribert h2 {
+	font-size: 2.5rem;
+	color: white;
+}
+.alphie{
+	text-align: center;
+}
